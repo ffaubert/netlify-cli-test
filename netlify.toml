@@ -1,0 +1,8 @@
+[build]
+  publish = "public/"
+
+[dev]
+  command = "vite"
+  targetPort = 5173
+  port = 8888
+  autoLaunch = false
